@@ -18,3 +18,5 @@ AspNetCoreRateLimit
 csharp-hessian
 ipaddressrange
 WebApiThrottle
+
+https://gitee.com/yautacai/sharpsvr.git
